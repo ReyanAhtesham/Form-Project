@@ -1,0 +1,18 @@
+.cards{
+   height:100px;
+   width:200px;
+   background-color: blueviolet;
+}
+.cardos{
+  height:100px;
+  width:200px;
+  background-color: crimson;
+}
+.outer-div{
+  background-image: url("./Purple.jpg");
+  padding-bottom: 150px;
+}
+
+.ooper{
+  margin-top: 100px;
+}
